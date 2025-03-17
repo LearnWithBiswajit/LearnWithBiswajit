@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e629bc91-17cb-4aaf-b423-0bf74b6ee8fa)
+![image](https://github.com/LearnWithBiswajit/LearnWithBiswajit/blob/main/Banner.gif)
 
 # 👋 Hi, I'm Biswajit Bera
 
